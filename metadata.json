@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Editor",
+  "description": "An AI-powered code editor with a live preview, inspired by Google AI Studio. Generate and refine React components using natural language prompts.",
+  "requestFramePermissions": []
+}
